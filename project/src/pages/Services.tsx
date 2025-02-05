@@ -6,7 +6,7 @@ const services = [
     id: 'consultoria',
     icon: Building2,
     title: 'Consultoría y Planeación de proyectos',
-    description: 'Ofrecemos un servicio integral en la planificación y gestión de proyectos de construcción, abarcando desde la estructuración técnica, jurídica y financiera hasta la promoción de inversiones. Nuestro equipo evalúa la factibilidad de cada proyecto, asegurando su viabilidad y rentabilidad. Además, brindamos gerencia integral para garantizar el cumplimiento de plazos, costos y calidad, junto con la programación y control de obra para una ejecución eficiente. Complementamos nuestros servicios con la elaboración precisa de presupuestos de construcción, optimizando recursos y garantizando el éxito del proyecto.'
+    description: 'Ofrecemos un servicio integral en la planificación y gestión de proyectos de construcción, abarcando desde la estructuración técnica, jurídica y financiera hasta la promoción de inversiones. Garantizamos la viabilidad, el cumplimiento de plazos y costos, y la eficiencia en la ejecución, optimizando recursos y asegurando el éxito del proyecto.'
   },
   {
     id: 'PIA',

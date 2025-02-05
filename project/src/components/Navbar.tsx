@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X, HardHat, ChevronDown } from 'lucide-react';
+import cesvaLogo from '../img/cesva-logo.svg'
 
 const services = [
   { id: 'consultoria', title: 'Consultoría y Planeación de proyectos' },
@@ -30,8 +31,7 @@ export default function Navbar({ onNavigate }) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center cursor-pointer" onClick={() => handleNavigation('home')}>
-            <HardHat className="h-8 w-8 text-blue-600" />
-            <span className="ml-2 text-xl font-bold text-gray-800">CESVA S.A.S.</span>
+            <img className= "" src={cesvaLogo}/>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
