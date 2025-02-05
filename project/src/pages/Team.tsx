@@ -16,9 +16,9 @@ const teamMembers = [
   },
   {
     name: 'Julián Sierra',
-    position: 'Asesor Comercial - Arquitecto',
+    position: 'Asesor Comercial - Ingeniero físico',
     image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80',
-    description: 'Arquitecto creativo con un enfoque innovador en el diseño y la planificación de espacios. Experto en relaciones comerciales y desarrollo de soluciones personalizadas.',
+    description: 'asñlkdjfñlaksdjflasdjk.',
     expertise: [
       'Diseño arquitectónico',
       'Gestión comercial',

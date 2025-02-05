@@ -25,6 +25,13 @@ export default function Contact() {
                 />
               </div>
               <div>
+                <label className="block text-sm font-medium text-gray-700">Celular</label>
+                <input
+                  type="number"
+                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
+                />
+              </div>
+              <div>
                 <label className="block text-sm font-medium text-gray-700">Email</label>
                 <input
                   type="email"
@@ -53,7 +60,7 @@ export default function Contact() {
               <Phone className="h-6 w-6 text-blue-600 mt-1" />
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900">Teléfono</h3>
-                <p className="mt-1 text-gray-600">+57 (1) 234-5678</p>
+                <p className="mt-1 text-gray-600">+57 (317) 640-6113</p>
               </div>
             </div>
 
@@ -61,7 +68,7 @@ export default function Contact() {
               <Mail className="h-6 w-6 text-blue-600 mt-1" />
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                <p className="mt-1 text-gray-600">contacto@cesva.com</p>
+                <p className="mt-1 text-gray-600">cesva10@yahoo.com</p>
               </div>
             </div>
 
